@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: 'https://github.com/funfely/CreaTuLanding1Cordero.git,
+  base: 'CreaTuLanding1Cordero',
   plugins: [react()],  
 
 });
